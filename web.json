@@ -1,4 +1,9 @@
 {
-  "shop": { "label": "디자인완두 몰에서 보기", "url": "https://designwandoo.com" },
-  "toys": {}
+  "shop": {
+    "label": "창의 포스터 5종 보러 가기",
+    "url": "https://designwandoo.com"
+  },
+  "toys": {
+    "디자인완두 창의 포스터 5종": "https://designwandoo.com/product/%EB%8C%80%ED%98%95-%EC%B0%BD%EC%9D%985%EC%A2%85-%EC%84%B8%EA%B3%84%EC%A7%80%EB%8F%84%ED%83%9C%EC%96%91%EA%B3%84%EB%B3%84%EC%9E%90%EB%A6%AC%EA%B5%AC%EA%B5%AC%EB%8B%A8%EA%B5%AC%EA%B5%AC%EB%8B%A8%ED%91%9C/273/category/29/display/1/"
+  }
 }
